@@ -1,8 +1,6 @@
 - Hi there👋
-- I'm a fresh graduate software engineer
 - 👀 I’m interested in Dart and Flutter
 - 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on open source projects
 
 
 <!---
